@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Naimur Rahman  
+# 👋 Hi, I'm Naimur Rahman Nahid
 
 ### Aspiring App & Web Developer | Designer | Editor | Tech Enthusiast  
 
