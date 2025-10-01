@@ -14,7 +14,11 @@
 
 ## 🛠️ Skills & Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,mysql,firebase,matlab,figma,ps,pr&perline=12)](https://skillicons.dev)  
+**Coding & Tech Stack**  
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,mysql,firebase,matlab&perline=12)](https://skillicons.dev)  
+
+**Creative / Design Tools**  
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr&perline=12)](https://skillicons.dev)  
 
 ---
 
