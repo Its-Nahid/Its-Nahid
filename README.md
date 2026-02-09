@@ -2,7 +2,7 @@
 
 ### Aspiring App & Web Developer | Designer | Editor | Tech Enthusiast  
 
-🎓 2nd Year Student @ BAUET  
+🎓 3rd Year Student @ BAUET  
 
 💡 A passionate learner exploring the world of **app & web development**.  
 🎨 I also enjoy **designing, editing, and creating content**, while gradually improving my **UI/UX skills**.  
