@@ -12,13 +12,18 @@
 ## 🚀 Current Focus
 
 **Personal Projects in Progress:**  
-- **ACSP Website** – Animal Care & Support Web Platform (Node.js, MongoDB, Express, Tailwind CSS)  
-- **AnimeFlix** – Netflix-style Anime Discovery Web App (React, Vite, Jikan API)  
+
+- **[ACSP Website](https://github.com/Its-Nahid/ACSP-Website)** – Animal Care & Support Web Platform  
+  > Built with **Node.js, Express, MongoDB, Tailwind CSS**, allows users to report animals, upload photos, and manage rescue operations.  
+
+- **[AnimeFlix](https://github.com/Its-Nahid/AnimeFlix)** – Netflix-style Anime Discovery Web App  
+  > Built with **React, Vite, Jikan API**, features dynamic rows, search functionality, and a modern responsive UI.  
 
 **Completed Project:**  
-- **MedAssist** – Mobile Health & Medicine App  
-> Android app to **scan medicines, get detailed information, suggest alternatives, set reminders, and provide voice-assisted guidance**  
-> Built using **Java/Kotlin, Firebase, ML Kit OCR, and Google Gemini AI**  
+
+- **[MedAssist](https://github.com/Its-Nahid/MedAssist)** – Mobile Health & Medicine App  
+  > Android app to **scan medicines, get details, suggest alternatives, set reminders, and provide voice-assisted guidance**  
+  > Built using **Java/Kotlin, Firebase, ML Kit OCR, and Google Gemini AI**  
 
 ---
 
