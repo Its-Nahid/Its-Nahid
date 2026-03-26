@@ -35,14 +35,6 @@
 **Creative / Design Tools**  
 [![Design](https://skillicons.dev/icons?i=figma,ps,pr,xd&perline=8)](https://skillicons.dev)  
 
-**Other Skills:**  
-- Web Development (HTML5, CSS3, JS, React, Tailwind CSS)  
-- Backend & Database (Node.js, Express, Firebase, MongoDB)  
-- Mobile App Development (Android Studio, CameraX, ML Kit OCR)  
-- AI & Machine Learning APIs (Google Gemini, ML Kit)  
-- UI/UX & Accessibility Design  
-- Version Control & Collaboration (Git, GitHub)  
-
 ---
 
 ## 📊 GitHub Stats
